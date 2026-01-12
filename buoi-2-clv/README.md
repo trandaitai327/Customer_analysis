@@ -1,6 +1,6 @@
 # Buổi 2: BG-NBD & Gamma-Gamma → Predictive CLV
 
-**Thời gian**: Thứ 3, 16.12
+
 
 ## 📋 Mục tiêu học tập
 
