@@ -1,6 +1,6 @@
 # Buổi 1: Customer Value Foundations - RFM & Customer Behavior Insights
 
-**Thời gian**: Thứ 7, 13.12
+
 
 ## 📋 Mục tiêu học tập
 
