@@ -4,7 +4,7 @@
 
 ## 📋 Mục tiêu học tập
 
-Sau buổi học này, học viên sẽ:
+Sau buổi học này:
 - Hiểu được khái niệm Predictive CLV (Customer Lifetime Value)
 - Nắm vững mô hình BG-NBD để ước lượng số giao dịch tương lai
 - Nắm vững mô hình Gamma-Gamma để ước lượng giá trị giao dịch trung bình
