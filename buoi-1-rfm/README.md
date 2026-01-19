@@ -4,7 +4,7 @@
 
 ## 📋 Mục tiêu học tập
 
-Sau buổi học này, học viên sẽ:
+Sau buổi học này:
 - Hiểu được khái niệm RFM (Recency, Frequency, Monetary) và ứng dụng thực tế
 - Nắm vững 2 phương pháp phân nhóm RFM: **RFM Score (Quintile)** và **K-means Clustering**
 - Biết cách so sánh và đánh giá ưu nhược điểm của từng phương pháp
